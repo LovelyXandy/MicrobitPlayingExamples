@@ -1,0 +1,34 @@
+Makecode Extension for Bit:Commander
+In Makecode, go to Advanced and select Add Package. Then search for BitCommander and add the extension
+
+Overview
+As well as a battery pack (3 x AA batteries required), the Bit:Commander includes
+
+Edge Connector for easy connection of the BBC micro:bit
+Robust on/off switch
+Blue power indicator
+6 multi-colour RGB LEDs (aka neopixels)
+4 square 12mm push buttons with coloured caps (Red. Yellow, Green, Blue)
+Analog dial input with centre click detent for easy centreing
+Analog Joystick with X and Y movement and a push switch
+Powered miniature speaker
+ 
+
+Suggested uses:
+Acting as a remote control for another micro:bit device, such as a Bit:Bot
+Acting as a self-contained portable (no wires) games console
+Experimenting with various Digital and Analog inputs available as well as the speaker and neopixel outputs
+Everything is pre-fitted. No wires, soldering or jumpoers to fiddle with
+ 
+
+Pin Connections:
+Speaker: Pin 0 (*)
+Dial: Pin 0 (*)
+Joystick X: Pin 1
+Joystick Y: Pin 2
+Joystick button: Pin 8
+Neopixels: Pin 13
+Red Button: Pin 12
+Yellow Button: Pin 16
+Green Button: Pin 14
+Blue Button: Pin 15
